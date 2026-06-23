@@ -1,0 +1,7 @@
+[project]
+name = "hello-tables"
+version = "0.1.0"
+description = "AISTor Tables Hello World"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["boto3>=1.40.76", "pyiceberg>=0.10.0", "requests>=2.32.5"]
